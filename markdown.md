@@ -19,6 +19,7 @@ Esto es una **prueba** de *IWEB*
 
  ![Imagen](https://github.com/user-attachments/assets/89c74b62-cf47-45ec-9ba2-69fae8492d40)
 
+git branch -D cambios
 git clone git@github.com:alejandrolf20/prueba-pr-asir.git
 cd prueba-
 git branch cambios
