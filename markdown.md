@@ -28,7 +28,7 @@ cd files
 echo >alf.md
 nano alf.md
 # ¿Qué asignatura te gusta más?
-Mi asignatura favorita de este año es **Servicios de red e Internet**, ya que de momento es la más interesante, aunque hay otras que también me parecen intersantes:
+Mi asignatura favorita de este año es **Servicios de red e Internet**, ya que de momento es la más *interesante*, aunque hay otras que también me parecen bastante buenas:
 
 * Seguridad y Alta Disponibildad
 * Implantación de Aplicaciones Web
